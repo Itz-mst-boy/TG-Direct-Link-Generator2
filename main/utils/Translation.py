@@ -21,7 +21,7 @@ class Language(object):
 
 <b><i><u>Warning 🚸</u></i></b>
 <b>🔞 Pron Contents Leads To Permanenet Ban You.</b></b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/mr_suklkun'>[ Click Here ]</a></b>"""
+<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/worldwide_friend_zone'>[ Click Here ]</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ My Name : TG Direct Link Generator</b>\n
@@ -47,7 +47,7 @@ class BUTTON(object):
         InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ],        
-        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url='https://t.me/mr/sukkun'),
+        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url='https://t.me/mr_sukkun'),
         InlineKeyboardButton("ɴᴇᴛᴡᴏʀᴋ", url='https://t.me/mastermind_network_official')]
         ]
     )
