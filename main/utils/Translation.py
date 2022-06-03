@@ -10,7 +10,7 @@ class Language(object):
 <i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
 <i>Click On Help To Get More Information</i>\n
 <b><i><u>Warning 🚸</u></i></b>\n
-<b>🔞 Pron Contents Leads To Permanenet Ban You.</b>"""
+<b>🔞 Porn Contents Leads To Permanenet Ban You.</b>"""
 
         HELP_TEXT = """🔰 **How to Use Me ?**
 
@@ -21,13 +21,13 @@ class Language(object):
 
 <b><i><u>Warning 🚸</u></i></b>
 <b>🔞 Pron Contents Leads To Permanenet Ban You.</b></b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/worldwide_friend_zone'>[ Click Here ]</a></b>"""
+<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/itz_mst_boy'>[ Click Here ]</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ My Name : TG Direct Link Generator</b>\n
-<b>⚜ Username : @tgdirectlink_bot</b>\n
-<b>🔸Version : 1.0</b>\n
-<b>🔹Last Updated : [ 12-may-22 ]</b>
+<b>⚜ Username : @Files_2_link_tobot</b>\n
+<b>🔸Version : 2.0</b>\n
+<b>🔹Last Updated : [ 03-june-22 ]</b>
 """
 
         stream_msg_text ="""
