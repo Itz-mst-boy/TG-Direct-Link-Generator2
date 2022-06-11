@@ -25,9 +25,10 @@ class Language(object):
 
         ABOUT_TEXT = """
 <b>⚜ My Name : TG Direct Link Generator</b>\n
-<b>⚜ Username : @Files_2_link_robot</b>\n
+<b>⚜ Username : @Files_2_links_bot</b>\n
 <b>🔸Version : 2.0</b>\n
-<b>🔹Last Updated : [ 03-june-22 ]</b>
+<b> By :- @itz_mst_boi </b>\n
+<b>🔹Last Updated : [ 11-june-22 ]</b>
 """
 
         stream_msg_text ="""
