@@ -1,11 +1,10 @@
 <h1 align="center">TG Direct Link Generator</h3>
 <p align="center">
-  <a href="https://github.com/selfie-bd/TG-Direct-Link-Generator">
-    <img src="https://socialify.git.ci/selfie-bd/TG-Direct-Link-Generator/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
-  </a>
+  <a href="https://github.com/Itz-mst-boy/TG-Direct-Link-Generator">
+    
   <p align="center">
     A Telegram Bot To Get Direct Links Of Telegram Files.<br/>
-    <a href="http://telegram.me/groupdcbots"><strong>Demo Bot</strong></a>
+    <a href="http://telegram.me/worldwide_friend_zone"><strong>Demo Bot</strong></a>
     <br />    
   </p>
 </p>
@@ -41,18 +40,13 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/TechShreyash/TG-Direct-Link-Generator">
+    <a herf="https://github.com/Itz-mst-boy/TG-Direct-Link-Generator2">
         <img src="https://telegra.ph/file/4d124400b985b2fe6ee1c.jpg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
 <p align='center'>
     This bot will give you stream links for Telegram files without the need of waiting till the download completes
 </p>
-
-### Original Repository
-
-The main working part was taken from [TG-Direct-Link-Generator](https://github.com/DeekshithSH/TG-Direct-Link-Generator).
-
 ## How to make your own
 
 Either you could locally host or deploy on [Heroku](https://heroku.com)
@@ -68,7 +62,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/TechShreyash/TG-Direct-Link-Generator
+git clone https://github.com/Itz-mst-boy/TG-Direct-Link-Generator2
 cd TG-Direct-Link-Generator
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -156,7 +150,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots)
-[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/mukeshbotzone)
+[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/worldwide_friend_zone)
 
-You can contact either via my [Telegram Group](https://telegram.me/TechZBots_Support) or you can PM me on [@Tech_Shreyash](https://telegram.me/Tech_Shreyash)
+You can contact either via my [Telegram Group](https://telegram.me/worldwide_friend_zone) or you can PM me on [Mukesh](https://telegram.me/Itz-mst-boi)
